@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h4> I am <strong>Tomás Carvalho</strong>, Geospatial Analyst and Full-Stack Developer with <i>Javascript</i>(Node.js, ReactJS, React Native) <h4>
+<p> I am <strong>Tomás Carvalho</strong>, Geospatial Analyst and Full-Stack Developer with <i>Javascript</i>(Node.js, ReactJS, React Native)</p>
 
 <!--
 **tomasoak/tomasoak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
