@@ -3,12 +3,12 @@
 ## Hi there 👋
 
 <br />I am enthusiastic learner and seeker of innovative solutions to complex problems.
-<br />I am Geospatial Analyst, Full-Stack Developer.
+<br />I am Geospatial Analyst and Full-Stack Developer.
 
 <br/> :purple_heart: &nbsp; Searching to colaborate in positive impact purpose projects
-<br/> :computer: &nbsp;Technologies: JavaScript, TypeScript, Node.js, ReactJS, React Native
+<br/> :computer: &nbsp;Technologies: JavaScript, TypeScript, Node.js, ReactJS and React Native
 <br/> :email: &nbsp; How to reach me:  
-[![Linkedin Badge](https://img.shields.io/badge/-TomásCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomas-carvalho/)](https://www.linkedin.com/in/tomas-carvalho/) | [![Gmail Badge](https://img.shields.io/badge/-tomas.jpeg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomas.jpeg@gmail.com)](mailto:tomas.jpeg@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-TomásCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomas-carvalho/)](https://www.linkedin.com/in/tomas-carvalho/)   |   [![Gmail Badge](https://img.shields.io/badge/-tomas.jpeg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomas.jpeg@gmail.com)](mailto:tomas.jpeg@gmail.com)
 
 
 <!--
