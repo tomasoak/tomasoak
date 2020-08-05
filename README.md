@@ -2,8 +2,8 @@
 
 ## Hi there 👋
 
-I am enthusiastic learner and seeker of innovative solutions to complex problems.
-I am Geospatial Analyst, Full-Stack Developer.
+<br />I am enthusiastic learner and seeker of innovative solutions to complex problems.
+<br />I am Geospatial Analyst, Full-Stack Developer.
 
 <br/> :purple_heart: &nbsp; Searching to colaborate in positive impact purpose projects
 <br/> :computer: &nbsp;Technologies: JavaScript, TypeScript, Node.js, ReactJS, React Native
