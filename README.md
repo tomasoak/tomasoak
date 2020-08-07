@@ -8,7 +8,7 @@
 <br/> :purple_heart: &nbsp; Searching to colaborate in projects with positive impact purpose
 <br/> :computer: &nbsp;Technologies: JavaScript, TypeScript, Node.js, ReactJS, React Native, Google Eath Engine, PostgreSQL/PostGIS, Python and GDAL  
 <br/> :email: &nbsp; How to reach me:  
-[![Linkedin Badge](https://img.shields.io/badge/-TomásCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomas-carvalho/)](https://www.linkedin.com/in/tomas-carvalho/)   |   [![Gmail Badge](https://img.shields.io/badge/-tomas.jpeg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomas.jpeg@gmail.com)](mailto:tomas.jpeg@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-TomásCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomas-carvalho/)](https://www.linkedin.com/in/tomas-carvalho/)     [![Gmail Badge](https://img.shields.io/badge/-tomas.jpeg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomas.jpeg@gmail.com)](mailto:tomas.jpeg@gmail.com)
 
 
 <!--
