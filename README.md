@@ -2,8 +2,8 @@
 
 ## Hi there 👋
 
-<br /><h4>I am enthusiastic learner and seeker of innovative solutions to complex problems.</h4>
-<br /><h4>I am Geospatial Analyst and Full-Stack Developer.</h4>
+<br />I am enthusiastic learner and seeker of innovative solutions to complex problems.
+<br />I am Geospatial Analyst and Full-Stack Developer.
 
 <br/> :purple_heart: &nbsp; Searching to colaborate in projects with positive impact purpose
 <br/> :computer: &nbsp;Technologies: Python, Google Eath Engine, GDAL, JavaScript, TypeScript, Node.js, ReactJS, React Native and PostgreSQL/PostGIS
