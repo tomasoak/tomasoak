@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-<br /> :zap: &nbsp; I am enthusiastic learner and seeker of innovative solutions to complex problems.
+<br /> :zap: &nbsp; I am enthusiastic learner and seeker of innovative geosolutions to complex problems.
 <br /> :zap: &nbsp; I am Geospatial Analyst and Full-Stack Developer.
 
 <br/> :purple_heart: &nbsp; Searching to colaborate in projects with positive impact purpose
