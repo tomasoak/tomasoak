@@ -1,12 +1,14 @@
 <div id="header" align="center">
-  <h3>Tomas Carvalho</h3>
-  <h4>Geospatial Data Scientist</h4>
+  <h3>Hi there :wave:</h3>
+    <br/>
+  <h5>About me</h5>
+  💼 Geospatial Data Scientist at <a href="https://trase.earth">Trase<a/>
 </div>
-<br/>
-<!-- ____ -->
 
+
+<br/>
 <div id="tech" align="center">
-  <h4>Technologies</h4>
+  <h5>Technologies</h5>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
@@ -14,9 +16,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 </div>
+
+
 <br/>
 <div id="badges" align="center">
-  <h4> 📫 How to reach me </h4>
+  <h5> 📫 How to reach me </h5>
   <div id="social-media"  >
     <a href="https://www.linkedin.com/in/tomas-carvalho/?locale=en_US">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
