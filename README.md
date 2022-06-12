@@ -9,7 +9,7 @@
 </div>
 
  <details>  
-  <summary><h5>About me</h5></summary>
+  <summary><h4>About me</h4></summary>
   <p> As a Geospatial Data Scientist, I have a strong passion for developing analysis, models, and visualizations, with both spatial and non-spatial data, to foster decision-making and sustainability in the agricultural and forestry commodity supply chain. 
 
 Over the last 1+ year, I have been working as a Data Scientist in the <a href="https://sei.org">Stockholm Environment Institute (SEI-HQ)<a/> for the <a href="https://trase.earth">Trase<a/> (Intelligence for Sustainable Trade) project to generate high-quality data-driven information on geospatial intelligence, specifically related to earth observation, land use, land tenure, supply chains, and socio-economic indicators to increase sustainable compliance in Latin America, Africa, and Southeast Asia. 
@@ -21,7 +21,7 @@ I am enthusiastic when it comes to Data Science and technology, thus over the la
 </details>
  
 <details>  
-  <summary><h5>Technologies</h5></summary>
+  <summary><h4>Technologies</h4></summary>
   <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>  </a>
@@ -34,7 +34,7 @@ I am enthusiastic when it comes to Data Science and technology, thus over the la
 </details>
 
 <div id="badges">
-  <h5> 📫 How to reach me </h5>
+  <h4> 📫 How to reach me </h4>
   <div id="social-media"  >
     <a href="https://www.linkedin.com/in/tomas-carvalho/?locale=en_US">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
