@@ -3,7 +3,7 @@
     <br/>
 
  - 💼 Geospatial Data Scientist at <a href="https://trase.earth">Trase<a/>
- - 🌱 I’m constant learning, aka eternal apprentice
+ - 🌱 I’m constantly learning, aka eternal apprentice
  - ⚡ Fun fact: I :heart: Maps and Hiking, not necessarily in this order
   
 </div>
