@@ -32,7 +32,18 @@ I am enthusiastic when it comes to Data Science and technology, thus over the la
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   </p>
 </details>
-
+    
+    
+<details>  
+  <summary><h4>Cool projects</h4></summary>
+  <p align="left"> 
+    Here you can check some cool projects I've been working and publicly useful code
+    <h4>Gists</h4>
+      - <a href="https://gist.github.com/tomasoak/d2c010d6e479f433dae596e48c33c8cd" target="_blank"> Connect Amazon S3 to PowerBI </a>
+  </p>
+   
+</details>
+    
 <div id="badges">
   <h4> 📫 How to reach me </h4>
   <div id="social-media"  >
