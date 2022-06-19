@@ -47,6 +47,9 @@ I am enthusiastic when it comes to Data Science and technology, thus over the la
     <h4>Gists</h4>
       <ul>
        <li> <a href="https://gist.github.com/tomasoak/d2c010d6e479f433dae596e48c33c8cd" target="_blank"> Connecting Amazon S3 to PowerBI </a> </li>
+       <li> 
+         <a href="https://gist.github.com/tomasoak/f53d6e13f82ec1e40b6045876ea73deb" target="_blank"> Git alias </a> - Speed up git commands
+        </li>
       </ul>
   </p>
 </details>
