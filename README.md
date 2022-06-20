@@ -37,6 +37,13 @@ I am enthusiastic when it comes to Data Science and technology, thus over the la
   <summary><h4>Cool projects</h4></summary>
   <p align="left"> 
     Here you can check some cool projects and publicly useful code I've been working on
+    <h4>WebDev</h4>
+      <ul>
+        <li> 
+          <a href="https://geomaniacs-landingpage.netlify.app" target="_blank"> GeoManiacs </a> - GeoSpatial company landing page
+        </li>
+      </ul>
+    <br/>
      <h4>Packages</h4>
       <ul>
         <li> 
