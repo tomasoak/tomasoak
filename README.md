@@ -57,6 +57,9 @@ I am enthusiastic when it comes to Data Science and technology, thus over the la
        <li> 
          <a href="https://gist.github.com/tomasoak/f53d6e13f82ec1e40b6045876ea73deb" target="_blank"> Git alias </a> - Speed up git commands
         </li>
+        <li> 
+         <a href=https://gist.github.com/tomasoak/1aec09f1ae92dbaee4afbae84d339076" target="_blank"> Insert thumbnails into PostgreSQL  </a> - using Node.js
+        </li>
       </ul>
   </p>
 </details>
