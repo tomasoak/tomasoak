@@ -10,13 +10,13 @@
 
  <details>  
   <summary><h4>About me</h4></summary>
-  <p> As a Geospatial Data Scientist, I have a strong passion for developing analysis, models, and visualizations, with both spatial and non-spatial data, to foster decision-making and sustainability in the agricultural and forestry commodity supply chain. 
+  <p> I am enthusiastic about creating actionable insights and promoting data-informed decision-making, Data Science/Analytics, and technology. Thus over the last 5+ years, I have been developing extensive practical and theoretical experience with programming, SQL database, web development, code versioning control, and GIS software/libraries.
 
-Over the last 1+ year, I have been working as a Data Scientist in the <a href="https://sei.org">Stockholm Environment Institute (SEI-HQ)<a/> for the <a href="https://trase.earth">Trase<a/> (Intelligence for Sustainable Trade) project to generate high-quality data-driven information on geospatial intelligence, specifically related to earth observation, land use, land tenure, supply chains, and socio-economic indicators to increase sustainable compliance in Latin America, Africa, and Southeast Asia. 
+As a Geospatial Data Scientist, I am passionate about developing analysis, models, and visualizations, with both spatial and non-spatial data, to foster decision-making and sustainability in the agricultural and forestry commodity supply chain. 
 
-From 2016 to 2021, I worked as a Geospatial Analyst for <a href="https://www.imaflora.org/">Imaflora</a> focused on developing and modeling spatial analysis, map visualizations, research studies, and reports for technical and non-technical audiences to improve the relationship between agricultural production and ecological conservation country-wide. I collaborated on multi-million dollar projects supported by NASA/USAID, CLUA, Moore Foundation, Amazon Fund, and Norad.
-    
-I am enthusiastic when it comes to Data Science and technology, thus over the last 5+ years, I have been developing extensive practical and theoretical experience with GIS software/libraries (ArcGIS, QGIS, GDAL, Google Earth Engine), SQL Database (PostgreSQL/PostGIS), programming (Python), web development (JavaScript, ReactJS, and Node.js), and code versioning control (Git, Github). Besides, automating processes concerning ETL, Machine Learning and Artificial Intelligence motivates me to go the extra mile.
+Over the last 1+ year, I have been working as a Data Scientist in the Stockholm Environment Institute (SEI-HQ) for the Trase (Intelligence for Sustainable Trade) project to generate high-quality data-driven information on geospatial intelligence, specifically related to earth observation, land use, land tenure, supply chains, and socio-economic indicators to increase sustainable compliance in Latin America, West Africa, and Southeast Asia. 
+
+From 2016 to 2021, I worked as a Geospatial Analyst for the Institute of Forest and Agriculture Management and Certification (Imaflora) focused on developing and modeling spatial analysis, map visualizations, research studies, and reports for technical and non-technical audiences to improve the relationship between agricultural production and ecological conservation country-wide. I collaborated on multi-million dollar projects supported by NASA/USAID, CLUA, Moore Foundation, Amazon Fund, and Norad.
    </p>
 </details>
  
