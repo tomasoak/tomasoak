@@ -10,7 +10,7 @@
 
  <details>  
   <summary><h4>About me</h4></summary>
-  <p> I am enthusiastic about creating actionable insights and promoting data-informed decision-making, Data Science/Analytics, and technology. Thus over the last 5+ years, I have been developing extensive practical and theoretical experience with programming, SQL database, web development, code versioning control, and GIS software/libraries.
+  <p> I am enthusiastic about creating actionable insights and promoting data-informed decision-making, Data Science/Analytics, and technology. Thus over the last 5+ years, I have been developing extensive practical and theoretical experience with programming, SQL database, software engineering, code versioning control, and GIS software/libraries.
 
 As a Geospatial Data Scientist, I am passionate about developing analysis, models, and visualizations, with both spatial and non-spatial data, to foster decision-making and sustainability in the agricultural and forestry commodity supply chain. 
 
