@@ -74,10 +74,6 @@ From 2016 to 2021, I worked as a Geospatial Analyst for the Institute of Forest 
       <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
      <a/>
   </div>
-  <div id="github">
-     <a href="https://github.com/tomasoak">
-      <img src="https://komarev.com/ghpvc/?username=tomasoak&style=flat-square&color=blue" alt="Github"/>
-    <a/>
   </div>
 </div>
       
