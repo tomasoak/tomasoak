@@ -37,10 +37,13 @@ From 2016 to 2021, I worked as a Geospatial Analyst for the Institute of Forest 
   <summary><h4>Cool projects</h4></summary>
   <p align="left"> 
     Here you can check some cool projects and publicly useful code I've been working on
-    <h4>WebDev</h4>
+    <h4>Software Engineering</h4>
       <ul>
         <li> 
           <a href="https://geomaniacs-landingpage.netlify.app" target="_blank"> GeoManiacs </a> - GeoSpatial company landing page
+        </li>
+        <li> 
+          <a href="https://github.com/tomasoak/gobarber" target="_blank"> GoBarber </a> - Schedule Service for a Hair&Barber shop
         </li>
       </ul>
     <br/>
