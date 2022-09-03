@@ -1,7 +1,5 @@
 <div id="header">
-  <h2>Hi there :wave:<br/>
-  I'm Tomas Carvalho
-  </h2>
+  <h3>Hi there :wave:</h3>
     <br/>
 
  - 💼 Data Scientist at <a href="https://trase.earth">Trase<a/>
