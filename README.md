@@ -11,13 +11,17 @@
 
  <details>  
   <summary><h3>About me</h3></summary>
-  <p> I am enthusiastic about creating actionable insights and promoting data-informed decision-making, Data Science/Analytics, and technology. Thus over the last 5+ years, I have been developing extensive practical and theoretical experience with programming, SQL database, software engineering, code versioning control, and GIS software/libraries.
+  <p> I am enthusiastic about creating actionable insights and promoting data-informed decision-making. Moreover, I am interested in Data Engineering, Data Science, and Data Analytics with great attention to detail with strong problem-solving skills.
 
-As a Geospatial Data Scientist, I am passionate about developing analysis, models, and visualizations, with both spatial and non-spatial data, to foster decision-making and sustainability in the agricultural and forestry commodity supply chain. 
+Over the last 5+ years, I have been developing work experience in:<br/>
+• Programming and software engineering with best practices and code patterns (Python, SQL)<br/>
+• Data Governance by designing, implementing automating routines, management of databases, and internal catalogs, and connecting with third-party services (AWS, PostgreSQL, Metabase)<br/>
+• Code versioning control (Git, GitHub)<br/>
+• Spatial data modeling, analysis, and visualizations (Google Earth Engine, QGIS, GDAL, ArcGIS, PostGIS)<br/>
+• Communicating technical processes and result to non-technical audiences and stakeholders<br/>
+• International team player by working on multi-million USD projects (NASA/USAID, Norad, Moore Foundation)
 
-Over the last 1+ year, I have been working as a Data Scientist in the Stockholm Environment Institute (SEI-HQ) for the Trase (Intelligence for Sustainable Trade) project to generate high-quality data-driven information on geospatial intelligence, specifically related to earth observation, land use, land tenure, supply chains, and socio-economic indicators to increase sustainable compliance in Latin America, West Africa, and Southeast Asia. 
-
-From 2016 to 2021, I worked as a Geospatial Analyst for the Institute of Forest and Agriculture Management and Certification (Imaflora) focused on developing and modeling spatial analysis, map visualizations, research studies, and reports for technical and non-technical audiences to improve the relationship between agricultural production and ecological conservation country-wide. I collaborated on multi-million dollar projects supported by NASA/USAID, CLUA, Moore Foundation, Amazon Fund, and Norad.
+I am curious, always open to new challenges, and willing to learn and experiment with new technologies.
    </p>
 </details>
  
