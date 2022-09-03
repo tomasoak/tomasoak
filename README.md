@@ -73,12 +73,10 @@ From 2016 to 2021, I worked as a Geospatial Analyst for the Institute of Forest 
         </li>
         <li> <a href="https://geomaniacs-landingpage.netlify.app" target="_blank"> GeoManiacs </a> - GeoSpatial company landing page - (React.js) </li> 
       </ul>
-    <br/>
      <h4>Packages</h4>
       <ul>
         <li> <a href="https://github.com/tomasoak/data_hopper" target="_blank"> Data Hopper </a> - Python data wrangler package </li>
       </ul>
-    <br/>
     <h4>Gists</h4>
       <ul>
         <li> <a href="https://gist.github.com/tomasoak/f53d6e13f82ec1e40b6045876ea73deb" target="_blank"> Git alias </a> - Speed up git commands </li>
