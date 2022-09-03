@@ -11,7 +11,7 @@
 
  <details>  
   <summary><h3>About me</h3></summary>
-  <p> I am enthusiastic about creating actionable insights and promoting data-informed decision-making. Moreover, I am interested in Data Engineering, Data Science, and Data Analytics with great attention to detail with strong problem-solving skills.
+  <p> I am enthusiastic about creating actionable insights and promoting data-informed decision-making. Moreover, I am interested in Data Engineering, Data Science, and Data Analytics with great attention to detail and strong problem-solving skills.
 
 Over the last 5+ years, I have been developing work experience in:<br/>
 • Programming and software engineering with best practices and code patterns (Python, SQL)<br/>
