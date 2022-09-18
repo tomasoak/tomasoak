@@ -5,24 +5,22 @@
  - 💼 Data Scientist at <a href="https://trase.earth">Trase<a/>
  - :fire: Interested in <strong>Data Engineering</strong> and <strong>Data Science</strong>
  - :rocket: Learning every day about <strong>technologies</strong>
- - :computer: Currently focused on big data & cloud: PySpark, Scala, and AWS
+ - :computer: Currently focused on Big Data & Cloud: PySpark, Scala, and AWS
  - ⚡ Fun fact: I :heart: Maps and Adventures, not necessarily in this order
   
 </div>
 
  <details>  
   <summary><h3>About me</h3></summary>
-  <p> I am enthusiastic about creating actionable insights and promoting data-informed decision-making. Moreover, I am interested in Data Engineering, Data Science, and Data Analytics with great attention to detail and strong problem-solving skills.
-
+  <p> I am enthusiastic about creating actionable insights and promoting data-informed decision-making. Moreover, I am interested in Data Engineering and Analytics with great attention to detail and a practical problem-solving mindset. I am curious, always open to new challenges, and willing to learn and experiment with new technologies.
+  
 Over the last 5+ years, I have been developing work experience in:<br/>
 • Programming and software engineering with best practices and code patterns (Python, SQL)<br/>
-• Data Governance by designing, implementing automating routines, management of databases, and internal catalogs, and connecting with third-party services (AWS, PostgreSQL, Metabase)<br/>
+• Data Governance by designing, implementing automating routines, management of databases, and internal catalogs, and connecting with third-party services (AWS, Metabase, PostgreSQL)<br/>
 • Code versioning control (Git, GitHub)<br/>
 • Spatial data modeling, analysis, and visualizations (Google Earth Engine, QGIS, GDAL, ArcGIS, PostGIS)<br/>
 • Communicating technical processes and result to non-technical audiences and stakeholders<br/>
-• International team player by working on multi-million USD projects (NASA/USAID, Norad, Moore Foundation)
-
-I am curious, always open to new challenges, and willing to learn and experiment with new technologies.
+• International trustworthy team player by working on multi-million USD projects (NASA/USAID, Norad, Moore Foundation)
    </p>
 </details>
  
