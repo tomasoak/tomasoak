@@ -5,7 +5,7 @@
  - 💼 Data Scientist at <a href="https://trase.earth">Trase<a/>
  - :fire: Interested in <strong>Data Engineering</strong> and <strong>Data Science</strong>
  - :rocket: Learning every day about <strong>technologies</strong>
- - :computer: Currently focused on Big Data & Cloud: PySpark, Scala, and AWS
+ - :computer: Currently focused on Big Data & Cloud: PySpark, Scala, Apache Scala, and AWS
  - ⚡ Fun fact: I :heart: maps, nature and adventures, not necessarily in this order
   
 </div>
