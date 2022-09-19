@@ -6,7 +6,7 @@
  - :fire: Interested in <strong>Data Engineering</strong> and <strong>Data Science</strong>
  - :rocket: Learning every day about <strong>technologies</strong>
  - :computer: Currently focused on Big Data & Cloud: PySpark, Scala, and AWS
- - ⚡ Fun fact: I :heart: Maps and Adventures, not necessarily in this order
+ - ⚡ Fun fact: I :heart: Maps, Nature and Adventures, not necessarily in this order
   
 </div>
 
