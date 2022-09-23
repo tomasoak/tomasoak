@@ -75,6 +75,7 @@ Over the last 5+ years, I have been developing work experience in:<br/>
           <a href="https://github.com/tomasoak/gobarber" target="_blank"> GoBarber </a> - Schedule Service for a Hair&Barber shop - (Node.js, React.js, React Native)
         </li>
         <li> <a href="https://geomaniacs-landingpage.netlify.app" target="_blank"> GeoManiacs </a> - GeoSpatial company landing page - (React.js) </li> 
+        <li> <a href="http://impacto.imaflora.org/" target="_blank"> Impact </a> -  Socio-environmental projects monitor in the Brazilian Amazon region - (Backend: Node.js, Typescript, GraphQL) </li> 
       </ul>
      <h4>Packages</h4>
       <ul>
