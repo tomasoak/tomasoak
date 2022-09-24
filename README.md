@@ -13,14 +13,18 @@
  <details>  
   <summary><h3>About me</h3></summary>
   <p> I am enthusiastic about creating actionable insights and promoting data-informed decision-making. Moreover, I am interested in Data Engineering and Analytics with great attention to detail and a practical problem-solving mindset. I am curious, always open to new challenges, and willing to learn and experiment with new technologies.
-  
-Over the last 5+ years, I have been developing work experience in:<br/>
-• Programming and software engineering with best practices and code patterns (Python, SQL)<br/>
-• Data Governance by designing, implementing automating routines, management of databases, and internal catalogs, and connecting with third-party services (AWS, Metabase, PostgreSQL)<br/>
-• Code versioning control (Git, GitHub)<br/>
-• Spatial data modeling, analysis, and visualizations (Google Earth Engine, QGIS, GDAL, ArcGIS, PostGIS)<br/>
-• Communicating technical processes and result to non-technical audiences and stakeholders<br/>
-• International trustworthy team player by working on multi-million USD projects (NASA/USAID, Norad, Moore Foundation)
+
+Over the last 4+ years, I have been developing work experience in:
+ • Programming and software engineering (Python, SQL, Scala, JavaScript, ReactJs, Node.js)
+ • Data governance by designing, implementing automating routines, management of databases, and internal catalogs, and connecting with third-party services (AWS, PostgreSQL, Metabase)
+ • Data visualization and dashboards (Python, Metabase, PowerBI)
+ • Code versioning control and CI/CD (Git, GitHub, GitHub Actions)
+ • Spatial data modeling, analysis, and visualizations (Google Earth Engine, QGIS, GDAL, ArcGIS, PostGIS)
+ • Communicating technical processes and results to non-technical audiences and stakeholders
+ • International team player by working on multi-million USD projects
+
+Currently diving into Big Data Engineer & Cloud technologies:
+ • PySpark, Scala, Airflow, and AWS
    </p>
 </details>
  
