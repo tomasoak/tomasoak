@@ -15,15 +15,23 @@
   <p> I am enthusiastic about creating actionable insights and promoting data-informed decision-making. Moreover, I am interested in Data Engineering and Analytics with great attention to detail and a practical problem-solving mindset. I am curious, always open to new challenges, and willing to learn and experiment with new technologies.
 
 Over the last 4+ years, I have been developing work experience in:
+<br>
  • Programming and software engineering (Python, SQL, Scala, JavaScript, ReactJs, Node.js)
+ <br>
  • Data governance by designing, implementing automating routines, management of databases, and internal catalogs, and connecting with third-party services (AWS, PostgreSQL, Metabase)
+ <br>
  • Data visualization and dashboards (Python, Metabase, PowerBI)
+ <br>
  • Code versioning control and CI/CD (Git, GitHub, GitHub Actions)
+ <br>
  • Spatial data modeling, analysis, and visualizations (Google Earth Engine, QGIS, GDAL, ArcGIS, PostGIS)
+ <br>
  • Communicating technical processes and results to non-technical audiences and stakeholders
+ <br>
  • International team player by working on multi-million USD projects
 
 Currently diving into Big Data Engineer & Cloud technologies:
+<br>
  • PySpark, Scala, Airflow, and AWS
    </p>
 </details>
