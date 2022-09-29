@@ -91,7 +91,7 @@ Currently diving into Big Data Engineer & Cloud technologies:
       </ul>
      <h4>Packages</h4>
       <ul>
-        <li> <a href="https://github.com/tomasoak/data_hopper" target="_blank"> Data Hopper </a> - Python data wrangler package </li>
+        <li> <a href="https://data-hopper.netlify.app/" target="_blank"> Data Hopper </a> - Python Data Engineering and Wrangler package </li>
       </ul>
     <h4>Gists</h4>
       <ul>
