@@ -81,18 +81,24 @@ Currently diving into Big Data Engineer & Cloud technologies:
   <summary><h3>Side projects</h3></summary>
   <p align="left"> 
     Here you can check some cool projects and publicly useful code I've been working on
+    
     <h4>Software Engineering</h4>
       <ul>
+      
         <li> 
           <a href="https://github.com/tomasoak/gobarber" target="_blank"> GoBarber </a> - Schedule Service for a Hair&Barber shop - (Node.js, React.js, React Native)
         </li>
         <li> <a href="https://geomaniacs-landingpage.netlify.app" target="_blank"> GeoManiacs </a> - GeoSpatial company landing page - (React.js) </li> 
         <li> <a href="http://impacto.imaflora.org/" target="_blank"> Impact </a> -  Socio-environmental projects monitor in the Brazilian Amazon region - (Backend: Node.js, Typescript, GraphQL, JWT Auth) </li> 
+        <li> <a href="https://github.com/tomasoak/e_commerce_microservice" target="_blank"> E-Commerce Microservice </a> - (Python, FastAPI, Redis) </li> 
+        
       </ul>
+      
      <h4>Packages</h4>
       <ul>
         <li> <a href="https://data-hopper.netlify.app/" target="_blank"> Data Hopper </a> - Python package for data engineering and data wrangling </li>
       </ul>
+      
     <h4>Gists</h4>
       <ul>
         <li> <a href="https://gist.github.com/tomasoak/f53d6e13f82ec1e40b6045876ea73deb" target="_blank"> Git alias </a> - Speed up git commands </li>
