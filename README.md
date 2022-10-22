@@ -16,7 +16,7 @@
 
 Over the last 4+ years, I have been developing work experience in:
 <br>
- • Programming and software engineering (Python, SQL, JavaScript, ReactJs, Node.js, Java, Scala)
+ • Programming and software engineering (Python, SQL, JavaScript, ReactJs, Node.js, Java, Scala, Docker)
  <br>
  • Data governance by designing, implementing automating routines, management of databases, and internal catalogs, and connecting with third-party services (AWS, PostgreSQL, Metabase)
  <br>
@@ -33,6 +33,30 @@ Over the last 4+ years, I have been developing work experience in:
 Currently diving into Big Data Engineer & Cloud technologies:
 <br>
  • PySpark, Airflow, AWS and CGP
+ 
+Programming proficiency:
+  <br>
+ • Python - 3 years
+  <br>
+ • SQL - 5 years
+  <br>
+ • AWS - 1.5 year
+  <br>
+ • JavaScript - 1 year
+  <br>
+ • ReactJS - 1 year
+  <br>
+ • Node.js - 1 year
+   <br>
+ • Bash - 1 year 
+  <br>
+ • Docker - 0.5 year 
+  <br>
+ • Java < 1 month (basic)
+  <br>
+ • Scala < 1 month (basic)
+ 
+ 
    </p>
 </details>
  
