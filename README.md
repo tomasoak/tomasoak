@@ -114,10 +114,6 @@ Programming proficiency:
         <li> <a href="http://impacto.imaflora.org/" target="_blank"> Impact </a> -  Socio-environmental projects monitor in the Brazilian Amazon region - (Backend: Node.js, Typescript, GraphQL, JWT Auth) </li> 
         <li> <a href="https://github.com/tomasoak/e_commerce_microservice" target="_blank"> E-Commerce Microservice </a> - (Python, FastAPI, Redis) </li> 
       </ul>
-    <h4>Data Engineering</h4>
-      <ul>
-        <li> <a href="https://github.com/tomasoak/airbnb_pipeline" target="_blank"> Airbnb Pipeline </a> - Extract and Load pipeline - (Python, AWS-S3, Airflow) </li>
-      </ul>
      <h4>Packages</h4>
       <ul>
         <li> <a href="https://data-hopper.netlify.app/" target="_blank"> Data Hopper </a> - Python package for data engineering and data wrangling </li>
