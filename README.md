@@ -12,50 +12,43 @@
 
  <details>  
   <summary><h3>About me</h3></summary>
-  <p> I am enthusiastic about creating actionable insights and promoting data-informed decision-making. Moreover, I am interested in Data Engineering and Analytics with great attention to detail and a practical problem-solving mindset. I am curious, always open to new challenges, and willing to learn and experiment with new technologies.
+  <p> I am a Data Scientist / Data Engineer enthusiastic about creating actionable insights and promoting data-informed decision-making, curious, open to new challenges, and willing to learn and experiment with new technologies. 
 
-Over the last 4+ years, I have been developing work experience in:
-<br>
- • Programming and software engineering (Python, SQL, JavaScript, ReactJs, Node.js, Java, Scala, Docker)
- <br>
- • Data governance by designing, implementing automating routines, management of databases, and internal catalogs, and connecting with third-party services (AWS, PostgreSQL, Metabase)
- <br>
- • Data visualization and dashboards (Python, Metabase, PowerBI)
- <br>
- • Code versioning control and CI/CD (Git, GitHub, GitHub Actions)
- <br>
- • Spatial data modeling, analysis, and visualizations (Google Earth Engine, QGIS, GDAL, ArcGIS, PostGIS)
- <br>
+Over the last 5+ years, I have been applying Data Analytics and Engineering to improve ESG performance in business practices, mainly in the global agricultural commodity supply chain sector. 
+ 
+Furthermore, I have developed demonstrable work experience with the following:
+ • Programming and software engineering
+  <br>
+ • Data enrichment, analysis, manipulation, visualization, and BI dashboards
+    <br>
+ • Build data pipelines and build ETL processes
+    <br>
+ • Data governance by designing, managing, and querying databases, and internal catalogs
+    <br>
+ • Code versioning control, CI/CD, and containers
+    <br>
+ • Spatial data modeling, analysis, and visualizations 
+    <br>
  • Communicating technical processes and results to non-technical audiences and stakeholders
- <br>
- • International team player by working on multi-million USD projects
+    <br>
+ • International and agile team player by working on multi-million USD projects
+    <br>
 
-Currently diving into Big Data Engineer & Cloud technologies:
-<br>
- • PySpark, Airflow, AWS and CGP
- 
-Programming proficiency:
-  <br>
- • Python - 3 years
-  <br>
- • SQL - 5 years
-  <br>
- • AWS - 1.5 year
-  <br>
- • JavaScript - 1 year
-  <br>
- • ReactJS - 1 year
-  <br>
- • Node.js - 1 year
-   <br>
- • Bash - 1 year 
-  <br>
- • Docker - 0.5 year 
-  <br>
- • Java < 1 month (basic)
-  <br>
- • Scala < 1 month (basic)
- 
+Main tech:
+    <br>
+ • Python, SQL, AWS (S3, EC2, ECR), PostgreSQL, Git, Github, Docker, Metabase (BI)
+
+Currently diving into Big Data Engineering & Cloud technologies:
+    <br>
+ • PySpark, Airflow, AWS (Glue, Redshift), and Databricks
+
+GIS tech:
+    <br>
+ • Google Earth Engine, QGIS, GDAL, ArcGIS, PostGIS, ArcPy
+
+Some experience with:
+    <br>
+ • JavaScript, Node.js, and ReactJS
  
    </p>
 </details>
