@@ -107,6 +107,12 @@ Some experience with:
         <li> <a href="http://impacto.imaflora.org/" target="_blank"> Impact </a> -  Socio-environmental projects monitor in the Brazilian Amazon region - (Backend: Node.js, Typescript, GraphQL, JWT Auth) </li> 
         <li> <a href="https://github.com/tomasoak/e_commerce_microservice" target="_blank"> E-Commerce Microservice </a> - (Python, FastAPI, Redis) </li> 
       </ul>
+    <h4>Business Intelligence</h4>
+       <ul>
+        <li> 
+          <a href="https://github.com/tomasoak/agricultural_supply_chain_explorer" target="_blank"> Agricultural Supply Chain Explorer </a> - Real-time interactive dashboard (Python, Dash-Plotly, AWS, SQL)
+        </li>
+      </ul>
      <h4>Packages</h4>
       <ul>
         <li> <a href="https://data-hopper.netlify.app/" target="_blank"> Data Hopper </a> - Python package for data engineering and data wrangling </li>
