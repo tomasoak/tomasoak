@@ -107,17 +107,30 @@ Some experience with:
         <li> <a href="http://impacto.imaflora.org/" target="_blank"> Impact </a> -  Socio-environmental projects monitor in the Brazilian Amazon region - (Backend: Node.js, Typescript, GraphQL, JWT Auth) </li> 
         <li> <a href="https://github.com/tomasoak/e_commerce_microservice" target="_blank"> E-Commerce Microservice </a> - (Python, FastAPI, Redis) </li> 
       </ul>
-    <h4>Business Intelligence</h4>
+  
+  <h4>Data Engineering</h4>
+    <ul>
+        <li> 
+          <a href="https://github.com/tomasoak/dataeng_zoomcamp" target="_blank"> Cloud and event-driven ETL Architecture </a> - End-to-end Data Engineering project (GCP, Terraform, Docker, SQL, Prefect, dbt, Spark, Kafka)
+        </li>
+     </ul>
+  
+  
+  
+  <h4>Business Intelligence</h4>
        <ul>
         <li> 
           <a href="https://github.com/tomasoak/agricultural_supply_chain_explorer" target="_blank"> Agricultural Supply Chain Explorer </a> - Real-time interactive dashboard (Python, Dash-Plotly, AWS, SQL)
         </li>
       </ul>
-     <h4>Packages</h4>
+
+     
+  <h4>Packages</h4>
       <ul>
         <li> <a href="https://data-hopper.netlify.app/" target="_blank"> Data Hopper </a> - Python package for data engineering and data wrangling </li>
       </ul>
-    <h4>Gists</h4>
+    
+  <h4>Gists</h4>
       <ul>
         <li> <a href="https://gist.github.com/tomasoak/f53d6e13f82ec1e40b6045876ea73deb" target="_blank"> Git alias </a> - Speed up git commands </li>
         <li> <a href="https://gist.github.com/tomasoak/d2c010d6e479f433dae596e48c33c8cd" target="_blank"> Connecting Amazon S3 to PowerBI </a> </li>
