@@ -111,7 +111,7 @@ Some experience with:
   <h4>Data Engineering</h4>
     <ul>
         <li> 
-          <a href="https://github.com/tomasoak/dataeng_zoomcamp" target="_blank"> Automated cloud ETL Architecture </a> - End-to-end streaming Data Engineering project (GCP, Terraform, Docker, SQL, Prefect, dbt, Spark, Kafka)
+          <a href="https://github.com/tomasoak/dataeng_zoomcamp" target="_blank"> Cloud ETL Architecture </a> - End-to-end streaming Data Engineering project (GCP, Terraform, Docker, SQL, Prefect, dbt, Spark, Kafka)
         </li>
      </ul>
   
