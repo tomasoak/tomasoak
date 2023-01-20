@@ -95,7 +95,7 @@ Some experience with:
 </details>  
        
 <details>  
-  <summary><h3>Side projects</h3></summary>
+  <summary><h3>Projects</h3></summary>
   <p align="left"> 
     Here you can check some cool projects and publicly useful code I've been working on
     <h4>Software Engineering</h4>
