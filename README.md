@@ -3,7 +3,7 @@
     <br/>
 
  - 💼 Data Scientist at <a href="https://trase.earth">Trase<a/>
- - :fire: Interested in <strong>Data Engineering</strong> and <strong>Data Science</strong>
+ - :fire: Interested in <strong>Data Engineering</strong> and <strong>Data Analytics Engineer</strong>
  - :rocket: Learning every day about <strong>technologies</strong>
  - :computer: Currently focused on Big Data & Cloud: PySpark, Airflow, AWS, and Databricks
  - ⚡ Fun fact: I :heart: maps, nature and adventures, not necessarily in this order
@@ -12,9 +12,9 @@
 
  <details>  
   <summary><h3>About me</h3></summary>
-  <p> I am a Data Scientist / Data Engineer enthusiastic about creating actionable insights and promoting data-informed decision-making, curious, open to new challenges, and willing to learn and experiment with new technologies. 
+  <p> I am a Data Analytics Engineer enthusiastic about creating actionable insights and promoting data-informed decision-making, curious, open to new challenges, and willing to learn and experiment with new technologies. 
 
-Over the last 5+ years, I have been applying Data Analytics and Engineering to improve ESG performance in business practices, mainly in the global agricultural commodity supply chain sector. 
+Over the last 6+ years, I have been applying Data Analytics and Engineering to improve ESG performance in business practices, mainly in the global agricultural commodity supply chain sector. 
  
 Furthermore, I have developed demonstrable work experience with the following:
  • Programming and software engineering
