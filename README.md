@@ -3,9 +3,9 @@
     <br/>
 
  - 💼 Data Scientist at <a href="https://trase.earth">Trase<a/>
- - :fire: Interested in <strong>Data Engineering</strong> and <strong>Data Analytics Engineer</strong>
+ - :fire: Interested in  <strong>Data Analytics Engineer</strong> and <strong>Data Engineering</strong>
  - :rocket: Learning every day about <strong>technologies</strong>
- - :computer: Currently focused on Big Data & Cloud: PySpark, Airflow, AWS, and Databricks
+ - :computer: Currently focused on Big Data & Cloud: PySpark, Orchestrators (Airflow/Prefect), GCP, and Databricks
  - ⚡ Fun fact: I :heart: maps, nature and adventures, not necessarily in this order
   
 </div>
