@@ -4,7 +4,7 @@
 
  - 💼 Data Scientist at <a href="https://trase.earth">Trase<a/>
  - :fire: Interested in  <strong>Data Analytics Engineer</strong> and <strong>Data Engineering</strong>
- - :rocket: Learning every day about make the most with <strong>technologies</strong> to <strong>create value</strong>
+ - :rocket: Learning every day about using <strong>technologies</strong> to <strong>create value</strong>
  - ⚡ Fun fact: I :heart: maps, nature and adventures, not necessarily in this order
   
 </div>
