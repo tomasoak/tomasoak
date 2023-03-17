@@ -4,51 +4,18 @@
 
  - 💼 Data Scientist at <a href="https://trase.earth">Trase<a/>
  - :fire: Interested in  <strong>Data Analytics Engineer</strong> and <strong>Data Engineering</strong>
- - :rocket: Learning every day about <strong>technologies</strong>
- - :computer: Currently focused on Big Data & Cloud: PySpark, Orchestrators (Airflow/Prefect), GCP, and Databricks
+ - :rocket: Learning every day about make the most with <strong>technologies</strong> to <strong>create value</strong>
  - ⚡ Fun fact: I :heart: maps, nature and adventures, not necessarily in this order
   
 </div>
 
  <details>  
   <summary><h3>About me</h3></summary>
-  <p> I am a Data Analytics Engineer enthusiastic about creating actionable insights and promoting data-informed decision-making, curious, open to new challenges, and willing to learn and experiment with new technologies. 
-
-Over the last 6+ years, I have been applying Data Analytics and Engineering to improve ESG performance in business practices, mainly in the global agricultural commodity supply chain sector. 
+  <p> As a Data Analytics Engineer, I thrive on turning data into actionable insights and empowering data-driven decision-making. With a passion for learning and a hunger for new challenges, I have spent the past 6+ years using cutting-edge techniques to improve ESG performance across the global agricultural commodity supply chain sector. My impact can be seen in measurable improvements to sustainability metrics and operational efficiency.
  
-Furthermore, I have developed demonstrable work experience with the following:
- • Programming and software engineering
-  <br>
- • Data enrichment, analysis, manipulation, visualization, and BI dashboards
-    <br>
- • Build data pipelines and build ETL processes
-    <br>
- • Data governance by designing, managing, and querying databases, and internal catalogs
-    <br>
- • Code versioning control, CI/CD, and containers
-    <br>
- • Spatial data modeling, analysis, and visualizations 
-    <br>
- • Communicating technical processes and results to non-technical audiences and stakeholders
-    <br>
- • International and agile team player by working on multi-million USD projects
-    <br>
+My technical expertise includes programming, data enrichment, analysis, and visualization, with a focus on building efficient data pipelines and multi-dimensional data modeling. I've optimized SQL queries, implemented version control, and leveraged cloud technologies, delivering measurable results for teams across the globe. My fluency in spatial data modeling, analysis, and visualization has enabled me to produce visually compelling outputs, and my experience working on multi-million USD projects demonstrates my commitment to cross-functional team success. I also have experience communicating technical concepts to non-technical stakeholders. 
 
-Main tech:
-    <br>
- • Python, SQL, AWS (S3, EC2, ECR), PostgreSQL, Git, Github, Docker, Metabase (BI)
-
-Currently diving into Big Data Engineering & Cloud technologies:
-    <br>
- • PySpark, Airflow, AWS (Glue, Redshift), and Databricks
-
-GIS tech:
-    <br>
- • Google Earth Engine, QGIS, GDAL, ArcGIS, PostGIS, ArcPy
-
-Some experience with:
-    <br>
- • JavaScript, Node.js, and ReactJS
+My tech stack includes Python, SQL, AWS, GCP, PostgreSQL, Git/Github, Docker, dbt, Airflow, Prefect, Terraform, and Metabase, as well as GIS technologies such as Google Earth Engine, PostGIS, QGIS, GDAL, and ArcGIS. 
  
    </p>
 </details>
