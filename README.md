@@ -2,8 +2,7 @@
   <h3>Hi there :wave:</h3>
     <br/>
 
- - 💼 Data Scientist at <a href="https://trase.earth">Trase<a/>
- - :fire: Interested in  <strong>Data Analytics Engineer</strong> and <strong>Data Engineering</strong>
+ - 💼 Data Analytics Engineer <strong>|</strong> Business Intelligence Engineer <strong>|</strong> Data Engineer <!-- - :fire: Interested in  <strong>Data Analytics Engineer</strong> and <strong>Data Engineering</strong> -->
  - :rocket: Learning every day about using <strong>technologies</strong> to <strong>create value</strong>
  - ⚡ Fun fact: I :heart: maps, nature and adventures, not necessarily in this order
   
@@ -65,6 +64,12 @@ My tech stack includes Python, SQL, AWS, GCP, PostgreSQL, Git/Github, Docker, db
   <summary><h3>Projects</h3></summary>
   <p align="left"> 
     Here you can check some cool projects and public useful code I've been working on
+     <h4>Business Intelligence</h4>
+       <ul>
+        <li> 
+          <a href="https://github.com/tomasoak/agricultural_supply_chain_explorer" target="_blank"> Agricultural Supply Chain Explorer </a> - Real-time interactive dashboard (Python, Dash-Plotly, AWS, SQL)
+        </li>
+      </ul>
     <h4>Software Engineering</h4>
       <ul>
         <li> 
@@ -72,26 +77,17 @@ My tech stack includes Python, SQL, AWS, GCP, PostgreSQL, Git/Github, Docker, db
         </li>
         <li> <a href="https://geomaniacs-landingpage.netlify.app" target="_blank"> GeoManiacs </a> - GeoSpatial company landing page - (React.js) </li> 
         <li> <a href="http://impacto.imaflora.org/" target="_blank"> Impact </a> -  Socio-environmental projects monitor in the Brazilian Amazon region - (Backend: Node.js, Typescript, GraphQL, JWT Auth) </li> 
-        <li> <a href="https://github.com/tomasoak/e_commerce_microservice" target="_blank"> E-Commerce Microservice </a> - (Python, FastAPI, Redis) </li> 
       </ul>
-  
+<!--  
   <h4>Data Engineering</h4>
     <ul>
         <li> 
           <a href="https://github.com/tomasoak/dataeng_zoomcamp" target="_blank"> Cloud ETL Architecture </a> - End-to-end streaming Data Engineering project (GCP, Terraform, Docker, SQL, Prefect, dbt, Spark, Kafka)
         </li>
      </ul>
+-->  
   
-  
-  
-  <h4>Business Intelligence</h4>
-       <ul>
-        <li> 
-          <a href="https://github.com/tomasoak/agricultural_supply_chain_explorer" target="_blank"> Agricultural Supply Chain Explorer </a> - Real-time interactive dashboard (Python, Dash-Plotly, AWS, SQL)
-        </li>
-      </ul>
 
-     
   <h4>Packages</h4>
       <ul>
         <li> <a href="https://data-hopper.netlify.app/" target="_blank"> Data Hopper </a> - Python package for data engineering and data wrangling </li>
