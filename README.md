@@ -10,11 +10,18 @@
 
  <details>  
   <summary><h3>About me</h3></summary>
-  <p> As a Data Analytics Engineer, I thrive on turning data into actionable insights and empowering data-driven decision-making. With a passion for learning and a hunger for new challenges, I have spent the past 6+ years using cutting-edge techniques to improve ESG performance across the global agricultural commodity supply chain sector. My impact can be seen in measurable improvements to sustainability metrics and operational efficiency.
- 
-My technical expertise includes programming, data enrichment, analysis, and visualization, with a focus on building efficient data pipelines and multi-dimensional data modeling. I've optimized SQL queries, implemented version control, and leveraged cloud technologies, delivering measurable results for teams across the globe. My fluency in spatial data modeling, analysis, and visualization has enabled me to produce visually compelling outputs, and my experience working on multi-million USD projects demonstrates my commitment to cross-functional team success. I also have experience communicating technical concepts to non-technical stakeholders. 
+  <p> As a Data Analytics & Business Intelligence Engineer, I thrive on turning data into actionable insights and empowering business decision-making. 
 
-My tech stack includes Python, SQL, AWS, GCP, PostgreSQL, Git/Github, Docker, dbt, Airflow, Prefect, Terraform, and Metabase, as well as GIS technologies such as Google Earth Engine, PostGIS, QGIS, GDAL, and ArcGIS. 
+I worked for over 6.5 years using cutting-edge technologies to improve sustainability across the global agricultural commodity supply chain sector on international projects (Latin America, the US, and Europe). In 2 years, of these 6.5, I lived and worked in Stockholm (Sweden). These experiences, therefore, honed my skills in stakeholder engagement and translating business requirements into data pipelines, governance, visualizations, and reporting.
+
+With a passion for learning and a hunger for new challenges, I am shifting gears toward a fast-paced environment. This dynamic environment revolves around equipping decision-makers with accessible information on fundraising, marketing, digital CRMs, and customer behavior. By leveraging this expertise, I will unleash my capabilities in bringing robust, efficient, integrated data models and products to life to unravel intricate business puzzles.
+
+Moreover, my technical expertise includes programming, data ETL/ELT, management, analysis, and visualization, focusing on building efficient data pipelines and reports. I have extensive experience optimizing SQL queries, modeling multi-dimensional data, and using code versioning control. Besides, I speak English fluently (108/120 TOEFL, valid until Feb 2025) and have a great domain of Spanish.
+
+My tech stack includes Python, SQL, AWS, Google Cloud Platform, dbt, Airflow, Tableau, Looker Studio, Metabase, Git/Github, Docker, and Terraform. Moreover, I have extensive experience with GIS and Remote Sensing technologies such as PostGIS, Google Earth Engine, GDAL, GeoPandas, QGIS, and ArcGIS.
+
+
+Explore my portfolio at https://tomasoak.github.io
  
    </p>
 </details>
