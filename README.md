@@ -3,8 +3,8 @@
     <br/>
 
  - 💼 Data Analytics Engineer <strong>|</strong> Business Intelligence Engineer <strong>|</strong> Data Engineer <!-- - :fire: Interested in  <strong>Data Analytics Engineer</strong> and <strong>Data Engineering</strong> -->
- - :rocket: Learning every day about using <strong>technologies</strong> to <strong>create value</strong>
- - ⚡ Fun fact: I :heart: maps, nature and adventures, not necessarily in this order
+ - :rocket: Learning every day about how to use <strong>technologies</strong> to <strong>leverage insights</strong> to <strong>create business value</strong>
+ - ⚡ Fun fact: I :heart: nature and adventures
   
 </div>
 
