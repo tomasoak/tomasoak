@@ -1,5 +1,5 @@
 <div id="header">
-  <h3>Hi there :wave:</h3>
+  <h3>Howdy :wave:</h3>
     <br/>
 
  - 💼 Data Analytics Engineer <strong>|</strong> Business Intelligence Engineer <strong>|</strong> Data Engineer <!-- - :fire: Interested in  <strong>Data Analytics Engineer</strong> and <strong>Data Engineering</strong> -->
