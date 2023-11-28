@@ -28,25 +28,21 @@ Explore my portfolio at https://tomasoak.github.io
  
 <details>  
 <summary><h3>Technologies</h3></summary>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>     </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+<div style="display: inline_block">
+  <img align="center" alt="AWS" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" >
+  <img align="center" alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Postgresql" width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" >
+  <img align="center" alt="Jupyter" height="60" src=https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg>
+  <img align="center" alt="Bash" width="50" height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
+  <img align="center" alt="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+  <img align="center" alt="Docker" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="QGIS" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
+  <img align="center" alt="GDAL" height="50" width="50" src="https://gdal.org/_static/gdalicon.png"/>
+  <img align="center" alt="PostGIS" height="50" width="60" src="https://postgis.net/brand.svg">
+</div>
+
+ 
+  
 </details>  
        
 <details>  
@@ -89,7 +85,13 @@ Explore my portfolio at https://tomasoak.github.io
       </ul>
   </p>
 </details>
+
   <br/>
+
+![Tomasoaks's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasoak&show_icons=true&theme=radical)
+
+  <br/>
+  
 <div id="badges">
   <h3> 📫 Connect with me </h3>
   <div id="social-media" >
