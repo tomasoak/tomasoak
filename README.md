@@ -87,8 +87,12 @@ Explore my portfolio at https://tomasoak.github.io
 </details>
 
   <br/>
+  
+<h3 align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomasoak&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
-![Tomasoaks's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasoak&show_icons=true&theme=radical)
+</h3>
 
   <br/>
   
