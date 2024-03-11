@@ -9,18 +9,23 @@
 </div>
 
   <summary><h3>About me</h3></summary>
-  <p> As a Data Analytics & Business Intelligence Engineer, I thrive on turning data into actionable insights and empowering business decision-making. 
+  <p> 7+ years as a Data Analytics & Business Intelligence Engineer, I am passionate about turning data into actionable insights and empowering business decision-making toward efficiency and sustainability. 
 
-I worked for over 6.5 years using cutting-edge technologies to improve sustainability across the global agricultural commodity supply chain sector on international projects (Latin America, the US, and Europe). In 2 years, of these 6.5, I lived and worked in Stockholm (Sweden). These experiences, therefore, honed my skills in stakeholder engagement and translating business requirements into data pipelines, governance, visualizations, and reporting.
+I worked for over 6.5 years using geospatial data science/engineering technologies to improve sustainability across the global agricultural commodity supply chain sector on international projects (Latin America, the US, and Europe). After declining an offer for a highly competitive Erasmus Mundus scholarship for an MSc Degree in Geospatial Data Science at renowned European universities, I decided to work as a Data Scientist in Stockholm (Sweden) for 2 years. There, I could further advance my skills in developing data pipelines, governance, visualizations, and reporting as well as broaden my perspectives on the supply chains and global economies. Moreover, focusing these years on the research and public policy space, I could collaborate with relevant scientific studies published in outstanding journals such as Nature Sustainability and Land Use Policy.
 
-With a passion for learning and a hunger for new challenges, I am shifting gears toward a fast-paced environment. This dynamic environment revolves around equipping decision-makers with accessible information on fundraising, marketing, digital CRMs, and customer behavior. By leveraging this expertise, I will unleash my capabilities in bringing robust, efficient, integrated data models and products to life to unravel intricate business puzzles.
+Recently, I decided to shift gears toward a faster business environment focused on equipping decision-makers with accessible information on fundraising, marketing, digital CRMs, and customer behavior. By leveraging this expertise, I can unleash my capabilities in bringing robust, efficient, integrated data models and products to life to unravel intricate business puzzles, such as leveraging finance, marketing, and operations actions to promote sustainable development.
 
-Moreover, my technical expertise includes programming, data ETL/ELT, management, analysis, and visualization, focusing on building efficient data pipelines and reports. I have extensive experience optimizing SQL queries, modeling multi-dimensional data, and using code versioning control. Besides, I speak English fluently (108/120 TOEFL, valid until Feb 2025) and have a great domain of Spanish.
+Further, my technical expertise includes programming, API development, data ETL/ELT, management, analysis, and visualization, focusing on building efficient data pipelines and reports. I also have extensive experience optimizing SQL queries, modeling multi-dimensional data, and using code versioning control. Besides, I am curious and eager to learn innovative technologies to leverage business insights. I am fluent in Portuguese and English, and have a great command of Spanish.
 
-My tech stack includes Python, SQL, AWS, Google Cloud Platform, dbt, Airflow, Tableau, Looker Studio, Metabase, Git/Github, Docker, and Terraform. Moreover, I have extensive experience with GIS and Remote Sensing technologies such as PostGIS, Google Earth Engine, GDAL, GeoPandas, QGIS, and ArcGIS.
+My tech stack includes Python, SQL, AWS, Google Cloud Platform, dbt, Tableau, Looker Studio, Metabase, Git (Github/GitLab), Docker, and Terraform. Moreover, I have extensive experience with GIS and Remote Sensing technologies such as PostGIS, Google Earth Engine, GDAL, GeoPandas, QGIS, and ArcGIS.
 
-
-Explore my portfolio at https://tomasoak.github.io
+Certifications: 
+<br>
+• AWS Certified Cloud Practitioner
+<br>
+• dbt Fundamentals
+<br>
+• Databricks Lakehouse Fundamentals
  
 </p>
 
