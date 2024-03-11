@@ -8,7 +8,6 @@
   
 </div>
 
- <details>  
   <summary><h3>About me</h3></summary>
   <p> As a Data Analytics & Business Intelligence Engineer, I thrive on turning data into actionable insights and empowering business decision-making. 
 
@@ -23,10 +22,11 @@ My tech stack includes Python, SQL, AWS, Google Cloud Platform, dbt, Airflow, Ta
 
 Explore my portfolio at https://tomasoak.github.io
  
-   </p>
-</details>
- 
-<details>  
+</p>
+
+<br> 
+<br>
+
 <summary><h3>Technologies</h3></summary>
 <div style="display: inline_block">
   <img align="center" alt="AWS" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" >
@@ -41,11 +41,9 @@ Explore my portfolio at https://tomasoak.github.io
   <img align="center" alt="PostGIS" height="50" width="60" src="https://postgis.net/brand.svg">
 </div>
 
- 
-  
-</details>  
-       
-<details>  
+<br> 
+<br> 
+
   <summary><h3>Projects</h3></summary>
   <p align="left"> 
     Here you can check some cool projects and public useful code I've been working on
@@ -84,7 +82,7 @@ Explore my portfolio at https://tomasoak.github.io
         <li> <a href="https://gist.github.com/tomasoak/d2c010d6e479f433dae596e48c33c8cd" target="_blank"> Connecting Amazon S3 to PowerBI </a> </li>
       </ul>
   </p>
-</details>
+
 
   <br/>
   
