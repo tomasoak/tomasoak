@@ -2,22 +2,22 @@
   <h3>Howdy :wave:</h3>
     <br/>
 
- - 💼 Data Analytics Engineer <strong>|</strong> Business Intelligence Engineer <strong>|</strong> Data Engineer <!-- - :fire: Interested in  <strong>Data Analytics Engineer</strong> and <strong>Data Engineering</strong> -->
+ - 💼 Analytics Engineer <strong>|</strong> Business Intelligence Engineer <strong>|</strong> Data Engineer 
  - :rocket: Learning every day about how to use <strong>technologies</strong> to <strong>leverage insights</strong> to <strong>create business value</strong>
  - ⚡ Fun fact: I :heart: nature and adventures
-  
+
 </div>
 
-  <summary><h3>About me</h3></summary>
-  <p> As a Data Analytics and Business Intelligence Engineer for over 7 years, I am passionate about transforming data into actionable insights and empowering business decision-making towards operational efficiency and sustainability.
+<br>
 
-Currently, I am focused on equipping decision-makers with accessible information on fundraising, marketing, digital CRMs, and customer behavior. By leveraging this expertise, I can unleash my capabilities in bringing robust, efficient, integrated data models and products to life to unravel intricate business puzzles, such as leveraging finance, marketing, and operations actions to promote sustainable development.
+<h2>About me</h2>
+  <p> Data Analytics Engineer with over 7 years of professional experience, passionate about transforming data into actionable insights and empowering decision-making. I specialize in building efficient data models and products to solve finance, marketing, and operations business challenges.
 
-Previously, I worked for over 6.5 years using geospatial data science/engineering technologies to improve sustainability across the global agricultural commodity supply chain sector on international projects (Latin America, the US, and Europe). After declining an offer for a highly competitive Erasmus Mundus scholarship for an MSc Degree in Geospatial Data Science at renowned European universities, I decided to work as a Data Scientist in Stockholm (Sweden) for 2 years. There, I could further advance my skills in developing data analysis, visualizations, and reporting as well as broaden my perspectives on supply chains and global economies. Moreover, focusing these years on the research and public policy space, I could collaborate with relevant scientific studies published in outstanding journals such as Nature Sustainability and Land Use Policy.
+My career began in geospatial data analytics, where I enhanced sustainability in the global agricultural supply chain through international projects across Latin America, the US, and Europe. This professional experience fostered my ability to think critically, analytically and innovatively.
 
-Further, my technical expertise includes programming, API development, data ETL/ELT, management, analysis, and visualization, focusing on building efficient data pipelines and reports. I also have extensive experience optimizing SQL queries, modeling multi-dimensional data, and using code versioning control. Besides, I am curious and eager to learn innovative technologies to leverage business insights. I am fluent in Portuguese and English, and have a great command of Spanish.
+My multidisciplinary experience has equipped me with a blend of technical expertise and business acumen. Proficient in Python, SQL, dbt, AWS, GCP, Tableau, Looker Studio, Metabase, Git, Docker, and Terraform, I develop comprehensive data solutions to address business challenges. I have honed skills in cross-team integration, project management, stakeholder alignment, developing business KPIs, and data-driven decision-making.
 
-My tech stack includes Python, SQL, dbt, AWS, Google Cloud Platform, Tableau, Looker Studio, Metabase, Git (Github/GitLab), Docker, and Terraform. Moreover, I have extensive experience with GIS and Remote Sensing technologies such as PostGIS, Google Earth Engine, GDAL, GeoPandas, QGIS, and ArcGIS.
+Fluent in Portuguese and English, with strong Spanish skills, I am dedicated to leveraging innovative technologies for better business insights. My diverse experiences have made me a strong learner and a business-oriented professional, ready to tackle new challenges and drive organizational growth.
 
 Certifications: 
 <br>
@@ -25,14 +25,15 @@ Certifications:
 <br>
 • dbt Fundamentals
 <br>
+• Tableau Desktop Specialist
+<br>
 • Databricks Lakehouse Fundamentals
  
 </p>
 
-<br> 
 <br>
 
-<summary><h3>Technologies</h3></summary>
+<h2>Technologies</h2>
 <div style="display: inline_block">
   <img align="center" alt="AWS" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" >
   <img align="center" alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
@@ -49,7 +50,7 @@ Certifications:
 <br> 
 <br> 
 
-  <summary><h3>Projects</h3></summary>
+<h2>Projects</h2>
   <p align="left"> 
     Here you can check some cool projects and public useful code I've been working on
      <h4>Business Intelligence</h4>
