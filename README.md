@@ -11,24 +11,24 @@
 <br>
 
 <h2>About me</h2>
-  <p> Data Analytics Engineer with over 7 years of professional experience, passionate about transforming data into actionable insights and empowering decision-making. I specialize in building efficient data models and products to solve finance, marketing, and operations business challenges.
+  <p> Data Analytics Engineer with over 8 years of professional experience, passionate about transforming data into actionable insights and empowering decision-making. I specialize in building efficient data models and products to enhance business performance.
 
-My career began in geospatial data analytics, where I enhanced sustainability in the global agricultural supply chain through international projects across Latin America, the US, and Europe. This professional experience fostered my ability to think critically, analytically and innovatively.
+My multidisciplinary experience has honed my skills in team integration, project management, stakeholder alignment, developing business KPIs, and data-driven decision-making.
 
-My multidisciplinary experience has equipped me with a blend of technical expertise and business acumen. Proficient in Python, SQL, dbt, AWS, GCP, Tableau, Looker Studio, Metabase, Git, Docker, and Terraform, I develop comprehensive data solutions to address business challenges. I have honed skills in cross-team integration, project management, stakeholder alignment, developing business KPIs, and data-driven decision-making.
+With my passion for using data for more immediate decision-making, I worked as a Senior BI Developer for one of the world’s most well-known non-profit charities. There, besides strengthening campaign’s gains with data and technology, I fostered better C-Level and senior decision-making through dozens of marketing and finance dashboards and dbt models for their offices in the US, Netherlands, and Brazil.
 
-Fluent in Portuguese and English, with strong Spanish skills, I am dedicated to leveraging innovative technologies for better business insights. My diverse experiences have made me a strong learner and a business-oriented professional, ready to tackle new challenges and drive organizational growth.
+As a Software Engineer, I have experience in building containerized and cloud infrastructure for back-end solutions, such as scalable and testable APIs, and modeling and deploying OLTP databases.
 
-Certifications: 
+I began my career and spent over 7 years working in high-profile non-profit organizations focused on improving sustainability in global agricultural supply chains through international projects in Latin America, the US, and Europe. Specifically, using Geospatial Data Analytics and Software Engineering, I contributed to key data products that improved deforestation-free commodity trade and thousands of indigenous communities lives in the Amazon Region. Besides, I have collaborated with organizations such as NASA and Chalmers University of Technology. Moreover, I co-author insightful research in prestigious scientific journals such as Nature Sustainability and Land Use Policy.
+
+Proficient in Python, SQL, dbt, PostgreSQL, PostGIS, AWS, GCP, Tableau, Looker Studio, Git, Docker, and Terraform, I hold some technical certifications:
 <br>
+
 • AWS Certified Cloud Practitioner
 <br>
 • dbt Fundamentals
 <br>
 • Tableau Desktop Specialist
-<br>
-• Databricks Lakehouse Fundamentals
- 
 </p>
 
 <br>
