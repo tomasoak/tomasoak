@@ -4,7 +4,7 @@
 
  - 💼 Analytics Engineer <strong>|</strong> Business Intelligence Engineer <strong>|</strong> Data Engineer 
  - :rocket: Learning every day about how to use <strong>technologies</strong> to <strong>leverage insights</strong> to <strong>create business value</strong>
- - ⚡ Fun fact: I :heart: nature and adventures
+ - ⚡ Fun fact: I'm a runner who loves outdoors activities
 
 </div>
 
