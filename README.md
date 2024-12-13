@@ -67,15 +67,6 @@ Proficient in Python, SQL, dbt, PostgreSQL, PostGIS, AWS, GCP, Tableau, Looker S
         <li> <a href="https://geomaniacs-landingpage.netlify.app" target="_blank"> GeoManiacs </a> - GeoSpatial company landing page - (React.js) </li> 
         <li> <a href="http://impacto.imaflora.org/" target="_blank"> Impact </a> -  Socio-environmental projects monitor in the Brazilian Amazon region - (Backend: Node.js, Typescript, GraphQL, JWT Auth) </li> 
       </ul>
-<!--  
-  <h4>Data Engineering</h4>
-    <ul>
-        <li> 
-          <a href="https://github.com/tomasoak/dataeng_zoomcamp" target="_blank"> Cloud ETL Architecture </a> - End-to-end streaming Data Engineering project (GCP, Terraform, Docker, SQL, Prefect, dbt, Spark, Kafka)
-        </li>
-     </ul>
--->  
-  
 
   <h4>Packages</h4>
       <ul>
@@ -85,7 +76,6 @@ Proficient in Python, SQL, dbt, PostgreSQL, PostGIS, AWS, GCP, Tableau, Looker S
   <h4>Gists</h4>
       <ul>
         <li> <a href="https://gist.github.com/tomasoak/f53d6e13f82ec1e40b6045876ea73deb" target="_blank"> Git alias </a> - Speed up git commands </li>
-        <li> <a href="https://gist.github.com/tomasoak/d2c010d6e479f433dae596e48c33c8cd" target="_blank"> Connecting Amazon S3 to PowerBI </a> </li>
       </ul>
   </p>
 
