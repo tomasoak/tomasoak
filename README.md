@@ -17,7 +17,7 @@ My multidisciplinary experience has honed my skills in team integration, project
 
 With my passion for using data for more immediate decision-making, I worked as a Senior BI Developer for one of the world’s most well-known non-profit charities. There, besides strengthening campaign’s gains with data and technology, I fostered better C-Level and senior decision-making through dozens of marketing and finance dashboards and dbt models for their offices in the US, Netherlands, and Brazil.
 
-As a Software Engineer, I have experience in building containerized and cloud infrastructure for back-end solutions, such as scalable and testable APIs, and modeling and deploying OLTP databases.
+As a Software Engineer, I have experience in building containerized and cloud infrastructure for back-end solutions, such as scalable APIs, and modeling and deploying OLTP databases.
 
 I began my career and spent over 7 years working in high-profile non-profit organizations focused on improving sustainability in global agricultural supply chains through international projects in Latin America, the US, and Europe. Specifically, using Geospatial Data Analytics and Software Engineering, I contributed to key data products that improved deforestation-free commodity trade and thousands of indigenous communities lives in the Amazon Region. Besides, I have collaborated with organizations such as NASA and Chalmers University of Technology. Moreover, I co-author insightful research in prestigious scientific journals such as Nature Sustainability and Land Use Policy.
 
