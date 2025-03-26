@@ -15,7 +15,8 @@
   
 <h3 align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomasoak&theme=nord&hide_border=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomasoak&theme=nord&hide_border=true)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=tomasoak&theme=calm&hide_border=true)](https://git.io/streak-stats)
 
 </h3>
 
