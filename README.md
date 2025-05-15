@@ -3,7 +3,7 @@
     <br/>
 
  - 💼 Analytics Engineer <strong>|</strong> Business Intelligence Engineer <strong>|</strong> Data Engineer
- - :rocket: Learning every day about how to <strong>create business value</strong> by using data and software engineering technologies
+ - :rocket: <strong>Creating business value</strong> by using data and software engineering technologies
  - ⚡ Fun fact: I'm a runner who loves outdoors activities
 
 </div>
