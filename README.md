@@ -7,7 +7,6 @@
  - ⚡ Fun fact: I'm a runner who loves outdoors activities
 
 </div>
-
 <br>
 
   <br/>
